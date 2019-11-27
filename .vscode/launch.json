@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinallyExecution",
+            "request": "launch",
+            "mainClass": "xyzpackage.FinallyExecution",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashTablePemba",
+            "request": "launch",
+            "mainClass": "xyzpackage.hashTablePemba",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "xyzpackage.Test",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "linos.Example",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "linos.App",
+            "projectName": "marvin"
+        }
+    ]
+}
