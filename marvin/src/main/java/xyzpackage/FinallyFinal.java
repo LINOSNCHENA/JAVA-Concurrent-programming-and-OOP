@@ -1,9 +1,9 @@
 package xyzpackage;
 
-public class monze3 {
+public class FinallyFinal {
 	public static void main(String[] args) {
 		try {
-			monze3.divide(100, 10);
+			FinallyFinal.divide(100, 10);
 		} // Jumps to #2
 		finally{
 			System.out.println("finally in main #1");
