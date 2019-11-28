@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "singletonesterotype.Main",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FinallyExecution",
             "request": "launch",
             "mainClass": "xyzpackage.FinallyExecution",
