@@ -14,7 +14,7 @@ class hashTablePemba {
         father.put(1, " - Leon Nc"); 
   
         // Clone the created hashtable
-        son1 = (Hashtable<Integer, String>)father.clone(); 
+        son1 = (Hashtable<Integer, String>) father.clone(); 
   
         // Proving is clone was successful 
         

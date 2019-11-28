@@ -5,10 +5,10 @@ class ABC {
     //private int square(int a){return a*a; }
     public int square(int a){return a*a; }
  }  
- public class publicPrivate {
+ public class AccessModes {
     public static void main(String args[]){  
      ABC obj = new ABC();  
      //System.out.println(obj.num); 
-     System.out.println(obj.square(10));
+     System.out.println(obj.square(3));
     }  
  }

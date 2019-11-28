@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FinallyFinal",
+            "request": "launch",
+            "mainClass": "xyzpackage.FinallyFinal",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AccessModes",
+            "request": "launch",
+            "mainClass": "linos.AccessModes",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "singletonesterotype.Main",
