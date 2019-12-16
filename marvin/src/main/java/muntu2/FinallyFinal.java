@@ -1,4 +1,4 @@
-package xyzpackage;
+package muntu2;
 
 public class FinallyFinal {
 	public static void main(String[] args) {

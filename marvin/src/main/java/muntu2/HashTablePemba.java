@@ -1,4 +1,4 @@
-package xyzpackage;
+package muntu2;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 package linos;
-import abcpackage.*;
+import muntu1.*;
 public final class App {private App() {} // Locks it
 
  public static void main(String[] args) {

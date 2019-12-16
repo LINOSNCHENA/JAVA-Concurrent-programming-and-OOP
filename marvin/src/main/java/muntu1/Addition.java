@@ -1,4 +1,4 @@
-package abcpackage;
+package muntu1;
 public class Addition {
 //  int addTwoNumbers(int a, int b){System.out.println("====== Default1 package 1====="); return a+b; };
 //  private int addTwoNumbers(int a, int b){ System.out.println("====== Private package1====="); return a+b; };

@@ -1,5 +1,5 @@
-package xyzpackage;
-import abcpackage.*;
+package muntu2;
+import muntu1.*;
 class Test extends Addition{
    public static void main(String args[]){
 	Test obj = new Test();

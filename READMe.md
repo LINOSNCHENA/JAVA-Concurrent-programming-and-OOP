@@ -14,6 +14,8 @@ The application is a collection of some of the various required aspect in Java p
 8. LinkedList
 9. Sets
 10. HashCode Vs Equals
+11. Compare characters 
+12. Selective Output
 
 
 

@@ -1,4 +1,4 @@
-package singletonesterotype;
+package muntu3;
 
 class Singleton 
 { 
