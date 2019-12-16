@@ -8,15 +8,15 @@ The application is a collection of some of the various required aspect in Java p
 2. Singletone class
 3. Abstract class
 4. Extension of class
-5. SteroType in Spring Boot
-6. Collections in Java
-7. ArrayList
-8. LinkedList
-9. Sets
-10. HashCode Vs Equals
-11. Compare characters 
-12. Selective Output
+5. Compare characters 
+6. Selective Output
 
+7. SteroType in Spring Boot
+8. Collections in Java
+9. ArrayList
+10. LinkedList
+11. Sets
+12. HashCode Vs Equals
 
 
 ## Interface UX
