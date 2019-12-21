@@ -23,6 +23,4 @@ The application is a collection of some of the various required aspect in Java p
 
  Below are some Screens shots from the application
 
-![ Application Singleton Interface page #1 ](https://github.com/LINOSNCHENA/Registration-for-Pemba-Symposium/blob/master/page22.png)
-
-![ Application Singleton Interface page #2 ](https://github.com/LINOSNCHENA/Investigation-and-programming-mathematics/blob/master/marvin/src/main/java/muntuxyz/page1.png)
+![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Investigation-and-programming-mathematics/blob/master/marvin/src/main/java/muntuxyz/page1.png)
