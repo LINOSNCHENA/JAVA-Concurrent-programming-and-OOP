@@ -1,4 +1,4 @@
-package linos;
+package accessMode;
 
 public abstract class Foo1 {
     

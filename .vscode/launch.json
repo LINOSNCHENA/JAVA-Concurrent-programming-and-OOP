@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "accessMode.App",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AccessModes",
+            "request": "launch",
+            "mainClass": "accessMode.AccessModes",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - remaindRSap",
             "request": "launch",
             "mainClass": "muntu4.remaindRSap",

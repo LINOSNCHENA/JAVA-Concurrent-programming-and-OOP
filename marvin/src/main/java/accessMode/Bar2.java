@@ -1,4 +1,4 @@
-package linos;
+package accessMode;
 
 public class Bar2 extends Foo1 {
     

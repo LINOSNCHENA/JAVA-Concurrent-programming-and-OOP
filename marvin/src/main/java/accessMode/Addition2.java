@@ -1,4 +1,4 @@
-package linos;
+package accessMode;
 
 public class Addition2 {
     /* Since we didn't mention any access modifier here, it would

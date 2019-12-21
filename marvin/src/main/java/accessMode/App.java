@@ -1,4 +1,4 @@
-package linos;
+package accessMode;
 import muntu1.*;
 public final class App {private App() {} // Locks it
 

@@ -1,4 +1,4 @@
-package linos;
+package accessMode;
 
 class ABC {
     //private double num = 100;
