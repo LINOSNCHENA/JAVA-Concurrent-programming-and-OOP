@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - drawSAP",
+            "request": "launch",
+            "mainClass": "bankfocus.drawSAP",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - drawFocus",
+            "request": "launch",
+            "mainClass": "bankfocus.drawFocus",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Smallestx1",
+            "request": "launch",
+            "mainClass": "bankfocus.Smallestx1",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Smallestx2",
+            "request": "launch",
+            "mainClass": "bankfocus.Smallestx2",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Smallest",
+            "request": "launch",
+            "mainClass": "bankfocus.Smallest",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SecondSmall",
+            "request": "launch",
+            "mainClass": "bankfocus.SecondSmall",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadAndWriteJob",
+            "request": "launch",
+            "mainClass": "bankfocus.ReadAndWriteJob",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashTablePemba",
+            "request": "launch",
+            "mainClass": "muntu2.hashTablePemba",
+            "projectName": "marvin"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "accessMode.App",

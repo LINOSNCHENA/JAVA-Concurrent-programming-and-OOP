@@ -1,9 +1,7 @@
 package bankfocus;
-
 import java.util.concurrent.Semaphore;
- 
-public class ReadAndWriteJob {
-    static Object crunchifyLock = new Object();
+public class ReadSemaphore {
+
     static Semaphore semaphore = new Semaphore(0);
     static Semaphore mutex = new Semaphore(1);
     
@@ -33,9 +31,7 @@ public class ReadAndWriteJob {
                     semaphore.acquire();
                      mutex.acquire();
                     String result = "";
-                  //  for (String value : 10) {  result = value + ",";    }
-                    System.out.println(consumerName + " consumes value: " + result 
-                    + "List.size(): " + 1 + "\n");
+    System.out.println(consumerName+" consumes value: "+result+"List.size(): "+1+"\n");
                     mutex.release();         }
             } catch (Exception e) {return;  }
         }

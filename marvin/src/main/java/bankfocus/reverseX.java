@@ -1,6 +1,6 @@
 package bankfocus;
 
-public class reverseString {
+public class reverseX {
 
 	public static void main(String[] args) {
 	String str1="Leon"; 	
