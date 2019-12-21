@@ -5,17 +5,17 @@ The application is a collection of some of the various required aspect in Java p
 ## List of tasks and demonstrations
 
 1. Access Modifies
-2. Singletone class
-3. Abstract class
-4. Extension of class
-5. Compare characters 
-6. Selective Output
+2. functions & procedures
+3. Design parterns
+4. Abstract class
+5. Extension of class
+6. Compare string characters 
+7. Selective Output stars
 
-7. SteroType in Spring Boot
-8. Collections in Java
-9. ArrayList
-10. LinkedList
-11. Sets
+8. SteroType in Spring Boot
+9. Collections in Java
+10. ArrayList
+11. LinkedList Vs Sets
 12. HashCode Vs Equals
 
 
