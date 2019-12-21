@@ -25,4 +25,4 @@ The application is a collection of some of the various required aspect in Java p
 
 ![ Application Singleton Interface page #1 ](https://github.com/LINOSNCHENA/Registration-for-Pemba-Symposium/blob/master/page22.png)
 
-![ Application Singleton Interface page #2 ](https://github.com/LINOSNCHENA/Registration-for-Pemba-Symposium/blob/master/page21.png)
+![ Application Singleton Interface page #2 ](https://github.com/LINOSNCHENA/Investigation-and-programming-mathematics/blob/master/marvin/src/main/java/muntuxyz/page1.png)
