@@ -1,4 +1,4 @@
-# COMMON TASKS IN JAVA PROGRAMMING
+# COMMON TASKS IN PROGRAMMING
 
 The application is a collection of some of the various required aspect in Java programming
 
