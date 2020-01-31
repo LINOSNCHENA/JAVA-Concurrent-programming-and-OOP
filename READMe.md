@@ -28,6 +28,6 @@ mvn clean package
 
  Below are some Screens shots from the application
 
-![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Investigation-and-programming-mathematics/blob/master/marvin/src/main/java/muntuxyz/page1.png)
+![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
 
-![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Investigation-and-programming-mathematics/blob/master/marvin/src/main/java/muntuxyz/page1.png)
+![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
