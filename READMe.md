@@ -1,6 +1,6 @@
 # COMMON TASKS IN PROGRAMMING
 
-The application is a collection of some of the various required aspect in Java programming
+The application is a collection of some of the various important aspect in Java programming paradign
 
 ## List of tasks and demonstrations
 
@@ -11,13 +11,18 @@ The application is a collection of some of the various required aspect in Java p
 5. Extension of class
 6. Compare string characters 
 7. Selective Output stars
-
 8. SteroType in Spring Boot
 9. Collections in Java
 10. ArrayList
 11. LinkedList Vs Sets
 12. HashCode Vs Equals
 
+
+## Execution command:  
+```
+mvn clean package
+
+```
 
 ## Interface UX
 
