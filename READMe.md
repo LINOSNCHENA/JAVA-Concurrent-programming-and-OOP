@@ -30,4 +30,4 @@ mvn clean package
 
 ![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
 
-![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
+![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
