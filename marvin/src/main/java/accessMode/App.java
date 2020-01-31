@@ -1,4 +1,4 @@
-package accessMode;
+package accessmode;
 import muntu1.*;
 public final class App {private App() {} // Locks it
 
@@ -15,4 +15,6 @@ Addition obj = new Addition();
 obj.addTwoNumbers(10, 21);
 
     }
+
+    //end 
 }

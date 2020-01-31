@@ -1,4 +1,4 @@
-package accessMode;
+package accessmode;
 
 class ABC {
     //private double num = 100;
@@ -9,6 +9,6 @@ class ABC {
     public static void main(String args[]){  
      ABC obj = new ABC();  
      //System.out.println(obj.num); 
-     System.out.println(obj.square(3));
+     System.out.println(obj.square(83));
     }  
  }

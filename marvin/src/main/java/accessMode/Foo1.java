@@ -1,4 +1,4 @@
-package accessMode;
+package accessmode;
 
 public abstract class Foo1 {
     

@@ -1,4 +1,4 @@
-package accessMode;
+package accessmode;
 
 public class Bar2 extends Foo1 {
     
