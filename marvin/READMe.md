@@ -18,10 +18,10 @@ The application is a collection of some of the various important aspect in Java 
 12. HashCode Vs Equals
 
 
-## Execution commands:  
+## Execution command:  
 ```
 mvn clean package
-mvn spring-boot:run
+
 ```
 
 ## Interface UX
