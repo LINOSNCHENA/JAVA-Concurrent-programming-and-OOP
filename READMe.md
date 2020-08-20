@@ -4,18 +4,16 @@ The application is a collection of some of the various important aspect in Java 
 
 ## List of tasks and demonstrations
 
-1. Access Modifies
+1. Access Modifies & Abstract class
 2. functions & procedures
-3. Design parterns
-4. Abstract class
-5. Extension of class
-6. Compare string characters 
-7. Selective Output stars
-8. SteroType in Spring Boot
-9. Collections in Java
-10. ArrayList
-11. LinkedList Vs Sets
-12. HashCode Vs Equals
+3. Design parterns in Python
+4. Extension of class
+5. Compare string characters 
+6. Selective Output stars
+7. SteroType in Spring Boot
+8. Collections in Java
+9. ArrayList vs  LinkedList Vs Sets
+10. HashCode Vs Equals
 
 
 ## Execution command:  
@@ -31,5 +29,5 @@ run command in Muntu and Seven branches
 
 ![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
 ![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
-![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
-![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
+![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
+![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
