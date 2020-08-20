@@ -31,3 +31,5 @@ run command in Muntu and Seven branches
 ![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
 ![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
 ![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
+![ Single monitor display page #5 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
