@@ -1,4 +1,4 @@
-package bankfocus;
+package samaphores;
 import java.util.concurrent.Semaphore;
 public class ReadSemaphore {
 

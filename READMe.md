@@ -1,6 +1,6 @@
-# COMMON TASKS IN PROGRAMMING
+# STAND ALONE TASKS IN PROGRAMMING
 
-The application is a collection of some of the various important aspect in Java programming paradign
+The application is a collection of some of the various important aspect in Java programming paradign. 
 
 ## List of tasks and demonstrations
 
@@ -21,6 +21,7 @@ The application is a collection of some of the various important aspect in Java 
 ## Execution command:  
 ```
 mvn clean package
+run command in Muntu and Seven branches
 
 ```
 
@@ -29,5 +30,6 @@ mvn clean package
  Below are some Screens shots from the application
 
 ![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
-
 ![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
+![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
+![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)

@@ -1,6 +1,7 @@
-package bankfocus;
+package samaphores;
 
-import java.util.concurrent.Semaphore; 
+import java.util.concurrent.Semaphore;
+
 public class drawFocus {
   private static final int level1 = 1, level2 = 2, level3 = 2;
   private final Semaphore mutex = new Semaphore(level1);
@@ -80,7 +81,7 @@ public class drawFocus {
 
   public static void main(String[] args) {
     drawFocus deployed = new drawFocus();
-       deployed.ScheduledWritings();   // First Group
-       deployed.ScheduledReadings();   // Second Group
-    }
+    deployed.ScheduledWritings(); // First Group
+    deployed.ScheduledReadings(); // Second Group
+  }
 }
