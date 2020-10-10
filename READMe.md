@@ -1,8 +1,6 @@
 # STAND ALONE TASKS IN PROGRAMMING
 
-The application is a collection of some of the various important aspect in Java programming paradign. 
-
-## List of tasks and demonstrations
+The application is a collection of some of the various important aspect in Java programming paradign. The follwing are the ten identified tasks
 
 1. Access Modifies & Abstract class
 2. functions & procedures
@@ -17,13 +15,14 @@ The application is a collection of some of the various important aspect in Java 
 
 
 ## Execution command:  
+
 ```
 mvn clean package
 run command in Muntu and Seven branches
 
 ```
 
-## Interface UX
+## Interface User-Xperience
 
  Below are some Screens shots from the application
 
