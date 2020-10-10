@@ -1,6 +1,6 @@
-package samaphores;
+package sametime;
 import java.util.concurrent.Semaphore;
-public class ReadSemaphore {
+public class readSemaphore {
 
     static Semaphore semaphore = new Semaphore(0);
     static Semaphore mutex = new Semaphore(1);
@@ -12,7 +12,7 @@ public class ReadSemaphore {
             try {
                 while (true) {
                     String threadName = Thread.currentThread().getName() + counter++;
-                    mutex.acquire(); // List.add(threadName);
+                    mutex.acquire(); 
                     System.out.println("Producer is prdoucing new value: " + threadName);
                     mutex.release();
                     // release lock
