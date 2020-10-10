@@ -27,10 +27,11 @@ run command in Muntu and Seven branches
 
  Below are some screens shots from the application
 
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(3).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png)
+![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png) /
+![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png) /
+![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(3).png) /
+![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png) /
+![ Single monitor display page #5 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png) / 
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png) /
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png) /
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) /

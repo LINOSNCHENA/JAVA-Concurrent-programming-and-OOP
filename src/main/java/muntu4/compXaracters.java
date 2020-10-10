@@ -1,8 +1,9 @@
 package muntu4;
 
-public class hackerThon {
+public class compXaracters {
 	public static void main(String[] args) {
 		int endx = 9;
+
 		System.out.println("\n ============== Compare to Print =========================");
 		for (int i = 1; i < endx; i++) {
 			if (i % 3 == 0) {
@@ -14,7 +15,8 @@ public class hackerThon {
 				System.out.println(i);
 			}
 		}
-		System.out.println("\n ================== compare ChartAt ======================");
+
+		System.out.println("\n ================== compare ChartAt =========================");
 		String pemba = "ABCXYZ";
 		String monze = "ZYZCBA";
 		int z = pemba.length() - 1;
@@ -27,6 +29,6 @@ public class hackerThon {
 				System.out.println(monze.charAt(z - i));
 			}
 		}
-		System.out.println("======================== End ============================");
+		System.out.println("=========================== End ==================================");
 	}
 }
