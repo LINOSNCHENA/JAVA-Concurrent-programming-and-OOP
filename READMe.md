@@ -1,25 +1,25 @@
-# STAND ALONE TASKS IN PROGRAMMING
+# SAMPLE HACKERTHON TASKS IN CONCUREENT PROGRAMMING
 
 The application is a collection of some of the various important aspect in Java programming paradign. The follwing are the ten identified tasks
 
 1. Access Modifies & packages
 2. Abstract and Interface definitions
-3. Compare string characters 
-4. printing starse Output
-5. Finally usage and HashTables
-6. Singletome Design parterns in Java
-7. Design parterns in Python
-8. SteroType in Spring Boot
-9. Collections in Java
-10. ArrayList vs  LinkedList Vs Sets
-11. functions & procedures
+3. Compare string characters and stars Output
+4. Finally usage and HashTables
+5. Singleton Design patterns in Java
+6. Design patterns in Python
+7. Stereotype in Spring Boot
+8. Collections in Java
+9. ArrayList vs LinkedList Vs Sets
+10. functions & procedures
+
+
 
 
 ## Execution command:  
 
 ```
 mvn clean package
-run command in Muntu and Seven branches
 
 ```
 
@@ -27,11 +27,11 @@ run command in Muntu and Seven branches
 
  Below are some screens shots from the application
 
-![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png) /
-![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png) /
-![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(3).png) /
-![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png) /
-![ Single monitor display page #5 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png) / 
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png) /
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png) /
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) /
+![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png) 
+![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png) 
+![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(3).png) 
+![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png) 
+![ Single monitor display page #5 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png) 
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png) 
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png) 
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 

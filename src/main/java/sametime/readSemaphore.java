@@ -1,5 +1,6 @@
 package sametime;
-import java.util.concurrent.Semaphore;
+//import java.util.concurrent.Semaphore;
+import java.util.concurrent.*;
 public class readSemaphore {
 
     static Semaphore semaphore = new Semaphore(0);

@@ -2,11 +2,11 @@ package sametime;
 
 
     
-    class ThreadDemo extends Thread {
+    class ThreadSensors extends Thread {
         private Thread t;
         private String threadName;
         
-        ThreadDemo( String name) {
+        ThreadSensors( String name) {
            threadName = name;
            System.out.println("Creating " +  threadName );
         }
@@ -37,10 +37,10 @@ package sametime;
      public class tutorial2 {
      
         public static void main(String args[]) {
-           ThreadDemo T1 = new ThreadDemo( "Thread-1B");
+           ThreadSensors T1 = new ThreadSensors( "Thread-1B");
            T1.start();
            
-           ThreadDemo T2 = new ThreadDemo( "Thread-2B");
+           ThreadSensors T2 = new ThreadSensors( "Thread-2B");
            T2.start();
         }   
      }
