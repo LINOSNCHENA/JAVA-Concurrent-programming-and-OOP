@@ -1,11 +1,11 @@
 package muntu2;
 
-public class FinallyFinal {
+public class usageOfxFinally {
 	public static void main(String[] args) {
 		try {
-			FinallyFinal.divideByZero(100, 10);
+			usageOfxFinally.divideByZero(100, 10);
 			System.out.println("\n finally in main #1 \n");
-		} // Jumps to #2
+		} 
 		finally {
 			System.out.println("\n ALWAYS EXECUTED finally in main at line #2 \n");
 		}

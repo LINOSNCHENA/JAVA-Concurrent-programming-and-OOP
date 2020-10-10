@@ -1,6 +1,6 @@
 package muntu4;
 
-public class remaindRSap {
+public class hackerThon {
 	public static void main(String[] args) {
 		int endx = 9;
 		System.out.println("\n ============== Compare to Print =========================");

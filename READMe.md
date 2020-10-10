@@ -2,16 +2,17 @@
 
 The application is a collection of some of the various important aspect in Java programming paradign. The follwing are the ten identified tasks
 
-1. Access Modifies & Abstract class
-2. functions & procedures
-3. Design parterns in Python
-4. Extension of class
-5. Compare string characters 
-6. Selective Output stars
-7. SteroType in Spring Boot
-8. Collections in Java
-9. ArrayList vs  LinkedList Vs Sets
-10. HashCode Vs Equals
+1. Access Modifies & packages
+2. Abstract and Interface definitions
+3. Compare string characters 
+4. printing starse Output
+5. Finally usage and HashTables
+6. Singletome Design parterns in Java
+7. Design parterns in Python
+8. SteroType in Spring Boot
+9. Collections in Java
+10. ArrayList vs  LinkedList Vs Sets
+11. functions & procedures
 
 
 ## Execution command:  
@@ -24,11 +25,12 @@ run command in Muntu and Seven branches
 
 ## Interface User-Xperience
 
- Below are some Screens shots from the application
+ Below are some screens shots from the application
 
-![ Single monitor display page #1 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
-![ Single monitor display page #2 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
-![ Single monitor display page #3 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page2.png)
-![ Single monitor display page #4 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
-![ Single monitor display page #5 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
-![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/Pricing-and-Investigating-salaries-app/blob/master/snaps/page1.png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(3).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png)
+![ Single monitor display page #6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png)

@@ -2,7 +2,7 @@ package muntu2;
 
 import java.util.*;
 
-class hashTablePemba {
+class hashTableCreated {
     public static void main(String[] arg) {
         // creating a hash table: Original table
         Hashtable<Integer, String> father = new Hashtable<Integer, String>();
