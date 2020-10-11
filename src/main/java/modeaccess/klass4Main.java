@@ -1,4 +1,4 @@
-package accessmode;
+package modeaccess;
 
 import muntu1.Addition;
 

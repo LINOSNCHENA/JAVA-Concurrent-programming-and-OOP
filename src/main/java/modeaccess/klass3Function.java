@@ -1,4 +1,4 @@
-package accessmode;
+package modeaccess;
 
 public class klass3Function {
     int addTwoNumbers(int a, int b) {

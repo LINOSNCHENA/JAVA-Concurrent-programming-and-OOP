@@ -1,4 +1,4 @@
-package sameConcurrent.cusummerProducer;
+package sameConcurrent.pembaConsumer;
 
 import java.util.concurrent.BlockingQueue;
 

@@ -1,4 +1,4 @@
-package accessmode;
+package modeaccess;
 
 public abstract class klass1Abstract {
 

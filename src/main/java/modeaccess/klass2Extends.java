@@ -1,4 +1,4 @@
-package accessmode;
+package modeaccess;
 
 public class klass2Extends extends klass1Abstract {
 

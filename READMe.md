@@ -14,8 +14,6 @@ The application is a collection of some of the various important aspect in Java 
 10. functions & procedures
 
 
-
-
 ## Execution command:  
 
 ```

@@ -1,4 +1,4 @@
-package accessmode;
+package modeaccess;
 
 public class AccessModes {
    public static void main(String args[]) {

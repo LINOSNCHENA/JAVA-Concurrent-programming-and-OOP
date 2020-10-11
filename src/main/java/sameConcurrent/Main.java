@@ -3,8 +3,8 @@ package sameConcurrent;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-import sameConcurrent.cusummerProducer.ConsumerPoison;
-import sameConcurrent.cusummerProducer.ProducerPoison;
+import sameConcurrent.pembaConsumer.ConsumerPoison;
+import sameConcurrent.pembaConsumer.ProducerPoison;
 
 public class Main {
 
