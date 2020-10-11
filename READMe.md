@@ -9,7 +9,7 @@ The application is a collection of some of the various important aspect in Java 
 5. Singleton Design patterns in Java
 6. Design patterns in Python
 7. Stereotype in Spring Boot
-8. Collections in Java
+8. Concurrent samaphores
 9. ArrayList vs LinkedList Vs Sets
 10. functions & procedures
 

@@ -1,4 +1,4 @@
-package sametime;
+package sameConcurrent;
 
 class RunnableSensors implements Runnable {
    private Thread t;
@@ -15,7 +15,7 @@ class RunnableSensors implements Runnable {
          for (int i = 4; i > 0; i--) {
             System.out.println("Thread: " + threadName + ", " + i);
             // Let the thread sleep for a while.
-            Thread.sleep(50);
+            Thread.sleep(1050);
          }
       } catch (InterruptedException e) {
          System.out.println("Thread " + threadName + " interrupted.");
@@ -32,7 +32,7 @@ class RunnableSensors implements Runnable {
    }
 }
 
-public class tutorial1 {
+public class run1Runnable {
 
    public static void main(String args[]) {
       RunnableSensors R1 = new RunnableSensors("Thread-1");
@@ -40,5 +40,6 @@ public class tutorial1 {
 
       RunnableSensors R2 = new RunnableSensors("Thread-2");
       R2.start();
+
    }
 }
