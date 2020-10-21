@@ -1,4 +1,4 @@
-package sameConcurrent;
+package sameconcurrent;
 
 class RunnableSensors implements Runnable {
    private Thread t;

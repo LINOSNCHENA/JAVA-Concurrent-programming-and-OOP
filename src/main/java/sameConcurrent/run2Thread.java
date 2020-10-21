@@ -1,4 +1,4 @@
-package sameConcurrent;
+package sameconcurrent;
 
 class ThreatElderFall extends Thread {
    private Thread t;

@@ -1,4 +1,4 @@
-package sameConcurrent;
+package sameconcurrent;
 
 import java.util.concurrent.*;
 
