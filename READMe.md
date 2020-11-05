@@ -1,6 +1,6 @@
-# SAMPLE HACKERTHON TASKS IN CONCUREENT PROGRAMMING
+# SAMPLE TASKS IN CONCUREENT PROGRAMMING
 
-The application is a collection of some of the various important aspect in Java programming paradign. The follwing are the ten identified tasks
+The application is a collection of some of the various important aspect in Java programming paradign. 
 
 1. Access Modifies & packages
 2. Abstract and Interface definitions
@@ -13,22 +13,10 @@ The application is a collection of some of the various important aspect in Java 
 9. ArrayList vs LinkedList Vs Sets, functions & procedures
 10. Integers and Int in Java Collections sortings
 
-11. JavaScript HS
-
-
-## Execution command:  
-
-```
-mvn clean package
-npm i esm
-npm i rxj
-node -r esm server.js
-
-```
 
 ## Interface User-Xperience
 
- Below are some screens shots from the application
+ Below are some screens shots from the application console
 
 ![display#1 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(1).png) 
 ![display#2 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(2).png) 
