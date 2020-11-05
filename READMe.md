@@ -20,6 +20,9 @@ The application is a collection of some of the various important aspect in Java 
 
 ```
 mvn clean package
+npm i esm
+npm i rxj
+node -r esm server.js
 
 ```
 
