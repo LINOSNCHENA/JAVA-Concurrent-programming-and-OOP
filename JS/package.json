@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.1.1",
+  "description": "lusaka",
+  "main": "hello.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "keywords": [
+    "choma"
+  ],
+  "author": "lnt",
+  "license": "ISC"
+}

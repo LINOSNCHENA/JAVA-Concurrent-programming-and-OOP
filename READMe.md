@@ -13,6 +13,8 @@ The application is a collection of some of the various important aspect in Java 
 9. ArrayList vs LinkedList Vs Sets, functions & procedures
 10. Integers and Int in Java Collections sortings
 
+11. JavaScript HS
+
 
 ## Execution command:  
 
