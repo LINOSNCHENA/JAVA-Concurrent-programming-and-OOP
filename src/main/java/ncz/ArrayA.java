@@ -22,6 +22,12 @@ public class ArrayA {
 
             //////////////////////////////////////////////////////////////////////////// RANKING
             ///////////////////////// SOLVING ORDE/EXIT IMPORTANCE ////////////////////
+            if ((A[s + 1] - A[s]) > 2) {
+                valueX = -2;
+                System.out.println("\n ==== =====/TooBigGAP6/===========" + valueX + "\n");
+                return valueX; // # TOO LARGE-GAP // Exit Function
+
+            }
             if (A[s + 1] - A[s] != 1 && A[s + 1] != A[s]) {
                 valueX = 1 + A[s];
                 System.out.println("\n =========/notOneBalaceNORNotRepeat3/============" + valueX + "\n");
@@ -40,14 +46,7 @@ public class ArrayA {
                 return valueX; // # 5 FIX -EQUALS ONLY AT END// End Exit Function
 
             }
-            if ((A[s + 1] - A[s]) > 1) {
-                valueX = -3;
-                valueX = A[s + 1] - A[s];
-                System.out.println(
-                        "\n ==== " + A[s + 1] + "=====/TooBigGAP6/== " + A[s] + " ==========" + valueX + "\n");
-                return valueX; // # TOO LARGE-GAP // Exit Function
 
-            }            
             else {
                 valueX = 1 + A[sizeX - 1]; // BREAK OR ANOTHER ITERATION OR FINISH== REPEATABLE
                 System.out.println("\n =========/default7/============" + valueX + "\n");
