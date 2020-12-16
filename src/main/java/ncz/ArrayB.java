@@ -1,10 +1,12 @@
 package ncz;
+import java.util.Arrays;
 
 public class ArrayB {
 
     int sortAddArray(int[] A) {
         int sizeX = A.length;
         int valueX = 0;
+        Arrays.sort(A);
         System.out.println("\n =========/SECOND-5Tests/============" + "\n");
  
         for (int s = 0; s < sizeX - 1; s++) {
