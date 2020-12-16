@@ -2,28 +2,23 @@ package ncz;
 
 public class APP {
 
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-       // int A[] = { -51, 2, 3, 4, 5, 6, 7, 8, 9, 10 ,11, 12, 13, 14, 15, 16, 17, 18, 19, 20}; // Test #1 SIZE
-         int A[] = { 1, 2, 3, 4, 5, -6, 7, 8, 9, 10,11,12,13,15,15,16 }; // Test #1 RANGE ELEMENTS
-        // int A[] = { -1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // Test #2 BAD GAP
-        // int A[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9,10 }; // Test #3 MINUS
-        // int A[] = {-2,-1,1 }; // Test #4
-        // int A[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // Test #5
-        // int A[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 9 }; // Test #6
+    // int A[] = { 3, 4, 5, 6, 7, 8, 9, 10,11,12 }; // Test #1 MAX-10
+    // int A[] = { 1, 2, 3, 4, 5, -6, 7,11,12,13,115,16 }; // Test #2 RANGE ELEMENTS
+     int A[] = { 1, 2, 3, 5, 5, 6, 7, 8, 9, 10 }; // Test #3 BAD-GAP NOT ONE/ORDER
+    // int A[] = { -4,-3,-2,-1,0 }; // Test #4 ZEROS AS LAST ELEMENT
+    // int A[] = {-2,-1 }; // Test #5 NEGATIVES AS THE LAST
 
-        Test obj = new Test();
-       
-        int x = obj.getdata(2040, 100);
-        System.out.print(x);
-        obj.add();
+    ArrayB job2 = new ArrayB();
+    int Y = job2.sortAddArray(A);
+    System.out.print(Y);
 
-        ArrayA job = new ArrayA();
-        Object z = job.sortAddArray(A);
-        System.out.print(z);
+    ArrayA job = new ArrayA();
+    int z = job.sortAddArray(A);
+    System.out.print(z);
 
-        System.out.println("\n");
-        System.out.println("\n ================== RETURN PRODUCED =================" + "\n");
+    System.out.println("\n ================== RETURN PRODUCED =================" + "\n");
 
-    }
+  }
 }
