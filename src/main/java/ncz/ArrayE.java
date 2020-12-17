@@ -15,7 +15,7 @@ public class ArrayE {
                     System.out.println("size-1X1");
                     return -1;
                 }
-                if (A[i] > 1000000) { //size-Min-Max-Good
+                if (A[i] > 1000000) { // size-Min-Max-Good
                     System.out.println("size-1X2");
                     return -1;
                 }
@@ -44,7 +44,6 @@ public class ArrayE {
                 valueX = -1;
                 System.out.println("size-3X");
                 return valueX;// 4
-
             }
 
             //////////////////////////////////////////////////////
@@ -53,7 +52,6 @@ public class ArrayE {
                 System.out.println("size-4X");
                 return valueX;// 5
             }
-
             if (A[sizeX - 1] < 0 || A[sizeX - 1] == 0) {
                 valueX = 1;
                 System.out.println("size-5X");
@@ -63,13 +61,12 @@ public class ArrayE {
                 valueX = 1;
                 System.out.println("Test6x");
                 return valueX;// 8
-            } 
+            }
             if ((A[s + 1] - A[s]) == 0 && A[s + 1] == A[sizeX - 1]) {
                 valueX = 1 + A[s];
                 System.out.println("size-7x");
-                return valueX;// 7  Unknown
-            }
-            else {
+                return valueX;// 7 Unknown
+            } else {
                 System.out.println("Test8");
                 valueX = 1 + A[sizeX - 1];// 8
             }
