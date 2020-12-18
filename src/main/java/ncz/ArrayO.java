@@ -22,27 +22,26 @@ public class ArrayO {
         Arrays.sort(A);
 
         Arrays.sort(A);
-        for (int i = 0; i < n; i++) {
-            if ((n) == 1) {
-                if (A[i] < -1000000) {
-                    return 1;
-                }
-                if (A[i] > 1000000) {
-                    return 1;
-                }
-                if (A[i] == 1) {
-                    return 2;
-                }
-                n = 1;
-                return n;
-            }
-        }
+        // for (int i = 0; i < n; i++) {
+        //     if ((n) == 1) {
+        //         if (A[i] < -999999) {
+        //             return 1;
+        //         }
+        //         if (A[i] > 999999) {
+        //             return 1;
+        //         }
+        //         if (A[i] == 1) {
+        //             return 2;
+        //         }
+        //         n = 1;
+        //         return n;
+        //     }
+        // }
 
         n = removeDuplicates(A, n);
 
         for (int i = 0; i < n; i++) {
-            System.out.println(A[i] + "=|=" + (i + 1)); // MONZE
-            if (A[i] != (i + 1)) {
+             if (A[i] != (i + 1)) {
                 n = (i + 1);
                 return n;
             }

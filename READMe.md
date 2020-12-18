@@ -12,6 +12,7 @@ The application is a collection of some of the various important aspect in Java 
 8. Concurrent samaphores
 9. ArrayList vs LinkedList Vs Sets, functions & procedures
 10. Integers and Int in Java Collections sortings
+11. MissingInteger Algorithm
 
 
 ## Interface User-Xperience
@@ -24,7 +25,7 @@ The application is a collection of some of the various important aspect in Java 
 ![display#4 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(4).png) 
 ![display#5 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(5).png) 
 ![display#6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(6).png) 
-![display#6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png) 
-![display#6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
-![Hackerton#1 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(9).png) 
-![Hackerton2#6 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
+![display#7 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(7).png) 
+![display#8 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
+![Hacker#09 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(9).png) 
+![Hacker#10 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
